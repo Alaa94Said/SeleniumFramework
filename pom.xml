@@ -13,6 +13,13 @@
   <name>NopCommerce</name>
   <url>http://maven.apache.org</url>
 
+  <profiles>
+    <profile>
+        <id>settingsSuite</id>
+        <!-- Configuration for this profile -->
+    </profile>
+</profiles>
+	
 <repositories>
     <repository>
         <id>central</id>
